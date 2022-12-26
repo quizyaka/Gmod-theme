@@ -1,3 +1,4 @@
+print('')
 
 local MenuGradient = Material( "html/img/gradient.png", "nocull smooth" )
 
